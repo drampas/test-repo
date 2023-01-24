@@ -1,2 +1,2 @@
 # Test
-tryig git for the first time
+trying git for the first time
